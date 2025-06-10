@@ -5,7 +5,7 @@ First, clone the repository from GitHub:
 
 
 
-git clone https://github.com/yourusername/book-review-api.git
+git clone https://github.com/mdirshad9211/Book-Review-System-BE
 cd book-review-api
 2. Install Dependencies
 Navigate to the project folder and install the dependencies:
